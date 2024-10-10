@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are Mori Dev</h1>
 <h3 align="center">Discord bot developer from Thailand!</h3>
 
-- 🔭 We're currently working on [Mori Music](https://docs.mannez.site)
+- 🔭 We're currently working on [Mori Music](https://docs.jittiphat.site)
 
 - 👯 Powered By [Maki Service Shop](https://maki-service.xyz)
 
