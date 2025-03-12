@@ -3,11 +3,11 @@
 
 - 🔭 We're currently working on [Mori Music](https://docs.jittiphat.site)
 
-- 👯 Powered By [Maki Service Shop](https://maki-service.xyz)
+- 👯 Powered By [Ferrum Cloud](https://cloud.fe-grp.com)
 
 - 👨‍💻 All of our projects are available at [https://github.com/MoriDev-2023](https://github.com/MoriDev-2023)
 
-- 📫 Contact **contact@mannez.site**
+- 📫 Contact **contact@Jittiphat.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
